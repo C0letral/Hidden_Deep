@@ -66,8 +66,7 @@
         /* ^^^^^^^^Main page code Seperation^^^^^^^^^^ */
 
   .Page-1 {
-    background-color:green;
-    
+    background-color:green;  
   }      
 
 .text6 {
@@ -117,7 +116,10 @@
   top: 400px;
   left: 1400px;
   
-
+border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44
   }
 
   .Display-Box2 img {
@@ -127,6 +129,11 @@
     position: absolute;
     left: 500px;
     top: 1000px;
+
+    border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44
   }
 
   
@@ -139,9 +146,15 @@
     z-index: 10;
 
   
-    height: 400px;
-    width: auto;
+    height: 410px; /* Covers Height of the Border */
+    width: 600px; /* Covers Width of the Border, Forcing image to be resized based on amount px the border is on both Sides */
+    border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44;
   }
+
+ 
 
 .Display-Box4 img {
     position: absolute;
@@ -151,6 +164,11 @@
 
     height: 300px;
     width: auto;
+
+    border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44
   }
 
   .Display-Box5 img {
@@ -160,6 +178,11 @@
 
     height: 300px;
     width: auto;
+
+    border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44
   }
 
   .Display-Box6 img {
@@ -169,4 +192,9 @@
     position: absolute;
     left: 2200px;
     top: 1050px;
+
+    border-bottom: 5px solid #504b44;
+    border-right: 5px solid #504b44;
+    border-left: 5px solid #504b44;
+    border-top:  5px solid #504b44
   }
