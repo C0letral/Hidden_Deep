@@ -1,0 +1,173 @@
+/* style code for the main title of the game. */
+.text1 {
+     display: flex;
+     justify-content: center;
+     align-items: flex-start;
+    height: 300px;
+
+    font-size: 60px;
+
+    font-family: 'ZerowaxFont', sans-serif;
+    }
+
+    @font-face {
+        font-family: 'ZerowaxFont';
+        src: url('Zerowax.ttf') format('truetype');
+    }
+    
+      .text2 {
+        text-align: center;
+        font-size: 35px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        
+    
+        margin-top: -200px; 
+       
+      } 
+
+      .text3 {
+        text-align: center;
+        font-size: 35px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+
+        margin-top: -20px;
+      }
+
+      .text4 {
+        text-align: center;
+        font-size: 75px;
+        font-family: fantasy;
+        color: crimson;
+
+        margin-top: 25px;
+      
+
+        }
+
+        .text5 {
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+
+        margin-top: -55px;
+
+        }
+
+
+    .Main-Page {
+        background-image: radial-gradient(circle, #4a4a4a 0%, #cccaca 100%);
+        background-repeat: no-repeat;
+        min-height: 100vh;
+        margin: 0;
+    }
+        /* ^^^^^^^^Main page code Seperation^^^^^^^^^^ */
+
+  .Page-1 {
+    background-color:green;
+    margin: 0;
+    padding: 0;
+  }      
+
+.text6 {
+ font-size: 60px;
+ font-family:monospace;
+ font-weight: bold;
+ color: rgb(66, 12, 12);
+
+ position: absolute;
+ top: -30px;
+ left: 145px;
+ z-index: 20;
+}
+
+  .Texas-logo img{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    z-index: 10;
+
+    height: 120px;
+    width: auto;
+    
+  }
+  
+  .top-menu{
+    width: 100%;
+    height: 130px;
+    background-color: #6aaf2a;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    Border-bottom: 3px solid rgb(0, 0, 0);
+  }
+
+  
+
+  .Display-Box1 img {
+
+  width: auto;
+  height: 300px;
+  
+
+  position: absolute;
+  top: 400px;
+  left: 1400px;
+  
+
+  }
+
+  .Display-Box2 img {
+    width: auto;
+    height: 300px;
+
+    position: absolute;
+    left: 500px;
+    top: 1000px;
+  }
+
+  
+
+  .Display-Box3 img {
+
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    z-index: 10;
+
+  
+    height: 400px;
+    width: auto;
+  }
+
+.Display-Box4 img {
+    position: absolute;
+    top: 1050px;
+    left: 1300px; 
+    
+
+    height: 300px;
+    width: auto;
+  }
+
+  .Display-Box5 img {
+    position: absolute;
+    left: 2050px;
+    top: 450px;
+
+    height: 300px;
+    width: auto;
+  }
+
+  .Display-Box6 img {
+    height: 300px;
+    width: auto;
+
+    position: absolute;
+    left: 2200px;
+    top: 1050px;
+  }
