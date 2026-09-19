@@ -105,7 +105,7 @@
   }
 
   
-
+ /* Display Boxes */
   .Display-Box1 img {
 
   width: auto;
@@ -198,3 +198,5 @@ border-bottom: 5px solid #504b44;
     border-left: 5px solid #504b44;
     border-top:  5px solid #504b44
   }
+
+  /* End of Display Boxes */
