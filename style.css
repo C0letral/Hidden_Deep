@@ -116,10 +116,8 @@
   top: 400px;
   left: 1400px;
   
-border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44
+border: 5px solid #504b44;
+    
   }
 
   .Display-Box2 img {
@@ -130,10 +128,7 @@ border-bottom: 5px solid #504b44;
     left: 500px;
     top: 1000px;
 
-    border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44
+    border: 5px solid #504b44;
   }
 
   
@@ -146,12 +141,9 @@ border-bottom: 5px solid #504b44;
     z-index: 10;
 
   
-    height: 410px; /* Covers Height of the Border */
-    width: 600px; /* Covers Width of the Border, Forcing image to be resized based on amount px the border is on both Sides */
-    border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44;
+    height: 410px; 
+    width: 600px; 
+    border: 5px solid #504b44;
   }
 
  
@@ -165,10 +157,7 @@ border-bottom: 5px solid #504b44;
     height: 300px;
     width: auto;
 
-    border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44
+    border: 5px solid #504b44;
   }
 
   .Display-Box5 img {
@@ -179,10 +168,7 @@ border-bottom: 5px solid #504b44;
     height: 300px;
     width: auto;
 
-    border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44
+    border: 5px solid #504b44;
   }
 
   .Display-Box6 img {
@@ -193,10 +179,7 @@ border-bottom: 5px solid #504b44;
     left: 2200px;
     top: 1050px;
 
-    border-bottom: 5px solid #504b44;
-    border-right: 5px solid #504b44;
-    border-left: 5px solid #504b44;
-    border-top:  5px solid #504b44
+    border: 5px solid #504b44;
   }
 
   /* End of Display Boxes */
