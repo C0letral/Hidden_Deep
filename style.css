@@ -111,12 +111,12 @@
   .Display-Box1 img {
 
   width: auto;
-  height: 300px;
+  height: 360px;
   
 
   position: absolute;
   top: 400px;
-  left: 1400px;
+  left: 1360px;
   
 border: 5px solid #ecc58e;
     
@@ -186,4 +186,151 @@ border: 5px solid #ecc58e;
 
   /* End of Display Boxes */
 
- /* Styling for Page 1 "Texas Gun Shop"  */
+  /* Product Name Section */
+
+  .Product1 {
+    position: absolute;
+    top: 800px;
+    left: 640px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .Product2 {
+    position: absolute;
+    top: 800px;
+    left: 1430px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .Product3 {
+    position: absolute;
+    top: 800px;
+    left: 2305px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .Product4 {
+    position: absolute;
+    top: 1390px;
+    left: 2250px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .Product5 {
+    position: absolute;
+    top: 1340px;
+    left: 501px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .Product6 {
+    position: absolute;
+    top: 1389px;
+    left: 1318px;
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+  }
+
+  /* End of Product name Section */
+
+
+/* Price Tag Section */
+
+.Price1 {
+position: absolute;
+top: 770px;
+left: 1490px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Price2 {
+position: absolute;
+top: 770px;
+left: 2290px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Price3 {
+position: absolute;
+top: 770px;
+left: 750px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Price4 {
+position: absolute;
+top: 1360px;
+left: 1469px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Price5 {
+position: absolute;
+top: 1360px;
+left: 2289px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Price6 {
+position: absolute;
+top: 1315px;
+left: 614px;
+
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+
+/* End of Price Tag Section */
+
+  
+
+
+ /* End of Styling for Page 1 "Texas Gun Shop"  */
