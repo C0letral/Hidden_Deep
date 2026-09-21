@@ -330,6 +330,45 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 /* End of Price Tag Section */
 
+/* Start of Description Section */
+
+.Description1 {
+  position: absolute;
+  top: 150px;
+
+  font-size: 28px;
+  font-weight: bold;
+  font-family: fantasy;
+  color: #e0a80d;
+
+  -webkit-text-stroke: 1px black;
+}
+
+.Description2 {
+  position: absolute;
+  top: 180px;
+
+ font-size: 28px;
+  font-weight: bold;
+  font-family: fantasy;
+  color: #e0a80d;
+
+  -webkit-text-stroke: 1px black;
+}
+
+.Description3 {
+   position: absolute;
+  top: 240px;
+
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  color: red;
+
+}
+
+/* end of Description Section */
   
 
 
