@@ -9,7 +9,7 @@ if (textcontainer.innerHTML === "") {
     newText.textContent = "Code";
     newText.className = "spawned-text";
 
-    textContainer.appendChild(newText);
+    textcontainer.appendChild(newText);
 }    
 
 });
