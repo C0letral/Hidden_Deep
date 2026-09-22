@@ -123,6 +123,7 @@ border: 5px solid #ecc58e;
   }
 
   .Display-Box2 img {
+    pointer-events: none;
     width: auto;
     height: 300px;
 
@@ -135,18 +136,7 @@ border: 5px solid #ecc58e;
 
   
 
-  .Display-Box3 img {
-
-    position: absolute;
-    top: 350px;
-    left: 500px;
-    z-index: 10;
-
   
-    height: 410px; 
-    width: 600px; 
-    border: 5px solid #ecc58e;
-  }
 
  
 
@@ -369,23 +359,35 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /* end of Description Section */
+
+.ak47-wrap {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+  width: 600px;
+  height: 410px;
+}
+
+.ak47-wrap img {
+  position: absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  border: 5px solid #ecc58e;
+  pointer-events: none;
+  z-index: 2;
+}
  
 /* Code reveal 1 section */
 
 #clickable-area {
-  position: absolute;
-  top: 500px;
-  left: 200px;
-  width: 250px;
-  padding: 20px;
-  background-color: rgb(56, 56, 37);
-  color: white;
-  text-align: center;
-  font-weight: bold;
+   position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
   cursor: pointer;
-  border: 3px solid;
-  margin-bottom: 20px;
-  z-index: -200
+  z-index: 1;
   
 
  
@@ -395,12 +397,16 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 #text-container {
   position:relative;
-  margin-top: 100px;
+  margin-top: 200px;
+  margin-left:1500px;
   clear: both;
   font-size: 24px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: crimson;
   font-weight: bold;
   z-index: 100;
+
+  
 }
 
  #spawned-text{
