@@ -432,7 +432,13 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 /* end of Code reveal 1 section */
   
+.Title {
+  font-size: 40px;
 
+  position: absolute;
+  top: 100px;
+  left: 1720px;
+}
 
  /* End of Styling for Page 1 "Texas Gun Shop"  */
 
