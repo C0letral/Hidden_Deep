@@ -1,3 +1,12 @@
+/* default browser reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-style: normal;
+  font-weight: normal;
+}
+
 /* style code for the main title of the game. */
 .text1 {
      display: flex;
@@ -230,7 +239,7 @@ border: 5px solid #ecc58e;
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-
+   font-style: 
   }
 
   .Product6 {
@@ -241,6 +250,7 @@ border: 5px solid #ecc58e;
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
+    
 
   }
 
@@ -389,6 +399,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
   cursor: pointer;
   z-index: 1;
   
+  
 
  
 
@@ -414,6 +425,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     color: crimson;
     font-weight: bold;
+    
 
   
   }
