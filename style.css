@@ -444,4 +444,16 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
  /* Styling for page 2 "I HATE YOU" */
 
+ .text-box1 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 200px;
+  left: 1700px;
+ }
+
  /* End of Styling for page2 "I HATE YOU" */
