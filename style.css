@@ -444,6 +444,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
   top: 100px;
   left: 1710px;
 
+  /* Text box section */
 }
 
  .text-box1 {
@@ -493,4 +494,103 @@ font-family: Georgia, 'Times New Roman', Times, serif;
   top: 560px;
   left: 1600px;
  }
+
+ .text-box5 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 680px;
+  left: 1600px;
+ }
+
+ .text-box6 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 860px;
+  left: 1600px;
+ }
+
+ .text-box7 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 1010px;
+  left: 1600px;
+ }
+
+ .text-box8 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 1200px;
+  left: 1600px;
+ }
+
+ .text-box9 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 1320px;
+  left: 1600px;
+ }
+
+ .text-box10 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 1430px;
+  left: 1600px;
+ }
+
+ .text-box11 {
+  width: 500px;
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 30px;
+
+  position: absolute;
+  top: 1580px;
+  left: 1600px;
+ }
+
+ .text-box12 {
+  
+  border: black;
+  padding: 10px;
+  overflow-wrap: break-word;
+  font-size: 70px;
+
+  position: absolute;
+  top: 1780px;
+  left: 1500px;
+ }
+
+ /* End of Text box section */
+
  /* End of Styling for page2 "I HATE YOU" */
