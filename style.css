@@ -617,3 +617,25 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  
 
  /* End of Styling for page2 "I HATE YOU" */
+
+ /* Styling for page 3 "MY LITTLE LINES" */
+ @font-face {
+        font-family: 'HelpMe';
+        src: url('HelpMe.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        
+ }
+
+ .Title3 {
+  position: absolute;
+  left: 1500px;
+  top: 50px;
+
+  font-size: 100px;
+  font-family: 'HelpMe', sans-serif;
+ }
+
+ 
+
+ /* End of styling for page 3 "MY LITTLE LINES */
