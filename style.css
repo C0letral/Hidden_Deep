@@ -633,6 +633,8 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  justify-content: space-between;
  align-items: center;
  gap: 2rem;
+ margin-top: 2%;
+ margin-left: 35%;
 
   font-size: 100px;
   font-family: 'HelpMe', sans-serif;
@@ -644,6 +646,8 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  justify-content: space-between;
  align-items: center;
  gap: 2rem;
+ margin-left: 30%;
+ margin-top: 42%;
 
   font-size: 40px;
   font-family: 'HelpMe';
