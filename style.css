@@ -628,18 +628,22 @@ font-family: Georgia, 'Times New Roman', Times, serif;
  }
 
  .Title3 {
-  position: absolute;
-  left: 1500px;
-  top: 50px;
+   display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ gap: 2rem;
 
   font-size: 100px;
   font-family: 'HelpMe', sans-serif;
  }
 
  .creep {
-  position: absolute;
-  top: 1600px;
-  left: 1340px;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ gap: 2rem;
 
   font-size: 40px;
   font-family: 'HelpMe';
